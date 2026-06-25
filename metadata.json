@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Web Simulator",
+  "description": "A high-fidelity WhatsApp Web replica featuring phone contact sync, manual contact creation, and interactive Gemini-powered AI chat personalities.",
+  "requestFramePermissions": ["contacts"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
